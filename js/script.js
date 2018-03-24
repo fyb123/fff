@@ -37,11 +37,15 @@ music.onclick = function(){
         audio.play();//播放音乐
         flag = 1;
     }
-} 
+}
+//音乐播放
+
+
+
 
 var submit = document.querySelector(".submit");
 submit.onclick = function(){
-    alert("网络不可用");
+    alert("提交成功");
 }
 
 
