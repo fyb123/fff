@@ -28,7 +28,7 @@ h2{
       text-align: center;
       font-size: 18px;
 
-        
+
       /* Center slide text vertically */
       display: -webkit-box;
       display: -ms-flexbox;
@@ -91,7 +91,7 @@ h2{
 }
 
 .dingwei{
-    position: absolute; 
+    position: absolute;
     top:19%;
     left: 50%;
 }
@@ -401,10 +401,10 @@ h2{
         font-size: 25px;
     }
     .dingwei{
-    position: absolute; 
+    position: absolute;
     top:19%;
     left: 40%;
-    
+
 }
     .dingwei .love{
         font-size: 16px;
